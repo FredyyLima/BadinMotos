@@ -1,0 +1,30 @@
+{
+  "name": "badinmotos",
+  "version": "1.0.0",
+  "description": "Thanks for downloading this template!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FredyyLima/BadinMotos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FredyyLima/BadinMotos/issues"
+  },
+  "homepage": "https://github.com/FredyyLima/BadinMotos#readme",
+  "dependencies": {
+    "composer": "^4.1.0",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "node": "^18.5.0",
+    "nodemailer": "^6.7.7",
+    "nodemon": "^2.0.19"
+  }
+}
